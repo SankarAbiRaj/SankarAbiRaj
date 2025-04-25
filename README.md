@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi there 👋 I'm **Sankar R**!  
 
-<!--
-**SankarAbiRaj/SankarAbiRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a B.Tech in AI and Data Science graduate with a deep passion for full-stack development. I specialize in building dynamic, scalable, and efficient web applications, and I am continuously expanding my knowledge in both front-end and back-end technologies. I enjoy tackling challenges and improving my problem-solving skills through diverse projects that involve end-to-end development.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Skills**:  
+- **Languages**: HTML, CSS, JavaScript, Java, MySQL  
+- **Technologies**: React, OOP, DBMS (Latest versions)
+
+🔧 **Currently working on**:  
+- Mastering **React** and **JavaScript** to create advanced, responsive web applications  
+- Enhancing my back-end skills with **Java** and **Spring Boot**  
+- Building a dynamic **website** to showcase my projects and skills  
+
+---
+
+📫 **Contact**:  
+- **Email**: sankar.abiraj@gmail.com
+- **GitHub**: https://github.com/SankarAbiRaj
+- **LinkedIn**: https://www.linkedin.com/in/sankarabiraj
+- **Website**: https://sankarrstv.github.io/Sankar-R-Portfolio/
+
+---
+
+Feel free to connect with me and explore my projects! Excited to collaborate and continue growing my skills! 😊  
